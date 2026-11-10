@@ -1,0 +1,11 @@
+{
+  "org": "eslint",
+  "repo": "typescript-eslint-parser",
+  "versions": [
+    {
+      "commit": "76b4d42e6ac0b2392d5c523c8e84dfab14599de3",
+      "tag": "",
+      "parsed_at": "2026-11-10T04:01:12.189407+00:00"
+    }
+  ]
+}
